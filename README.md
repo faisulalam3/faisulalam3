@@ -117,9 +117,9 @@ Performance reporting dashboard for paid media and website analytics.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Faisul Alam](YOUR_LINKEDIN_URL)
-- 🌐 Portfolio: [My Website](YOUR_PORTFOLIO_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: [Faisul Alam](https://www.linkedin.com/in/faisul-alam/)
+- 🌐 Portfolio: [My Website](https://faisulalam.lovable.app/)
+- 📧 Email: faisulalam61@gmail.com
 
 ---
 
